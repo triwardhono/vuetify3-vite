@@ -1,9 +1,4 @@
-<template>
-</template>
-<route>
-  {
-    meta: {
-      layout: '404'
-    }
-  }
+<route lang="yaml">
+  meta:
+    layout: 404
 </route>
